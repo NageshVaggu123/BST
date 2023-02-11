@@ -1,1 +1,2 @@
 # BST
+Binary search tree
